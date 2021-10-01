@@ -1,0 +1,16 @@
+{
+  "year": "2021",
+  "term": "AAL03",
+  "program": {
+    "name": "Data Analytics for Business",
+    "courseList": {
+      "DAB300-MACHINE LEARNING II": "1-3",
+      "DAB301-PROJECT MANAGEMENT ANALYTICS": "3",
+      "DAB302-ETHICS FOR ANALYTICS": "3",
+      "DAB303-MARKETING ANALYTICS": "1-3",
+      "DAB304-HEALTHCARE ANALYTICS": "3"
+    }
+  },
+  "totalEnrollmentplanned": "80",
+  "plannedStudents": "40"
+}
